@@ -3,8 +3,8 @@
 
 -----------------------------------------------
 
-![Front](img/front.png)
-![Back](img/back.png)
+![Front](img/front.jpg)
+![Back](img/back.jpg)
 
 -----------------------------------------------
 
