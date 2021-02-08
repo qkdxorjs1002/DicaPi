@@ -1,14 +1,17 @@
 # DicaPi
- DIY simple digital camera with RaspberryPi
+### 라즈베리파이를 활용한 DIY 카메라 (DIY simple digital camera with RaspberryPi)
+
+<br />
+
+<img src="img/front.jpg" width=500px> <img src="img/back.jpg" width=500px>
+
+<br />
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 -----------------------------------------------
 
-![Front](img/front.jpg)
-![Back](img/back.jpg)
-
------------------------------------------------
-
-### Hardware
+### 하드웨어 (Hardware)
 | Name         |  Description  |
 | ------------ | :-----------: |
 | RPi 3B+      |       -       |
@@ -22,7 +25,7 @@
 
 -----------------------------------------------
 
-### Features
+### 특징 (Features)
 | Name         |        Description         |
 | ------------ | :------------------------: |
 | Capture      |       Take a picture       |
@@ -35,14 +38,13 @@
 
 -----------------------------------------------
 
-### Configurator
+### 환경설정 (Configurator)
 ![configurator](img/configurator.png)
 
-### Filter
+### 필터 (Filter)
 ![filter](img/filter.png)
 
 -----------------------------------------------
 
-### Case
-![model1](img/model1.png)
-![model2](img/model2.png)
+### 케이스 (Case)
+<img src="img/model1.png" width=500px> <img src="img/model2.png" width=500px>
