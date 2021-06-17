@@ -10,6 +10,8 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 -----------------------------------------------
+### Summary
+[Google Drive](https://drive.google.com/drive/folders/1WOm51brsrJs0za7cX8sFT0ZGYBXqohwE?usp=sharing)
 
 ### 하드웨어 (Hardware)
 | Name         |  Description  |
